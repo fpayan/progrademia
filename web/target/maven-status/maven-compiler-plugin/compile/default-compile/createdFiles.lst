@@ -1,0 +1,5 @@
+es/esoftwares/init/InitWebApplication.class
+es/esoftwares/init/ServletInitializer.class
+es/esoftwares/init/SpringInicializador.class
+es/esoftwares/config/ThymeleafApplication.class
+es/esoftwares/controllers/IndexController.class
